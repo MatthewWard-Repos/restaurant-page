@@ -1,3 +1,3 @@
 A mock restaurant website demoonstrating DOM manipulation.
 
-https://matthewward-repos.github.io/restaurant-page/
+<a href='https://matthewward-repos.github.io/restaurant-page/'>A todo-list</a> (Open in new tab)
